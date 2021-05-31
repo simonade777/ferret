@@ -4,7 +4,7 @@
    #FERRET(FRET)
    5% fee auto add to the liquidity pool
    6% fee auto distribute to all holders
-   2% fee auto moved to owner wallet
+   2% fee auto moved to charity wallet
 */
 
 pragma solidity ^0.8.3;
